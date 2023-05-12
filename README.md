@@ -52,6 +52,8 @@ the [documents](https://docs.gitlab.com/ee/api/)._
     <img alt='milestones' src='screens/milestones.png' style="width: 200px;">
     <img alt='chats' src='screens/chats.png' style="width: 200px;">
     <img alt='releases' src='screens/releases.png' style="width: 200px;">
+    <img alt='merge-requests' src='screens/merge-requests.png' style="width: 200px;">
+    <img alt='changes' src='screens/changes.png' style="width: 200px;">
 </div>
 
 
