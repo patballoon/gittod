@@ -61,8 +61,3 @@ the [documents](https://docs.gitlab.com/ee/api/)._
 
 _GitTod is based on the [JiHu GitLab App](https://jihulab.com/ultimate-plan/jihu-gitlab-app/jihu-gitlab-app)._
 
-
-## Reference
-
-- [Privacy Policy](Privacy Policy)
-- [Terms & Conditions](Terms & Conditions)
