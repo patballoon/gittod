@@ -40,6 +40,18 @@ _For additional features and progress, please see
 our [Kanban board](https://jihulab.com/patballoon/gitlab-app/-/boards). The API used for these functions correspond to
 the [documents](https://docs.gitlab.com/ee/api/)._
 
+#### Screenshots
+<img alt='login' src='screens/login.png' style="width: 200px;">
+<img alt='home' src='screens/home.png' style="width: 200px;">
+<img alt='to-dos-2' src='screens/to-dos-2.png' style="width: 200px;">
+<img alt='profile' src='screens/profile.png' style="width: 200px;">
+<img alt='issues' src='screens/issues.png' style="width: 200px;">
+<img alt='repo' src='screens/repo.png' style="width: 200px;">
+<img alt='share-code-file' src='screens/share-code-file.png' style="width: 200px;">
+<img alt='milestones' src='screens/milestones.png' style="width: 200px;">
+<img alt='chats' src='screens/chats.png' style="width: 200px;">
+<img alt='releases' src='screens/releases.png' style="width: 200px;">
+
 ## Thanks for
 
 [JiHu GitLab App](https://jihulab.com/ultimate-plan/jihu-gitlab-app/jihu-gitlab-app).
